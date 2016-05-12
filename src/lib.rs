@@ -2,8 +2,6 @@
 // Copyright © 2016 The developers of rust1. See the COPYRIGHT file in the top-level directory of this distribution and at https://raw.githubusercontent.com/lemonrock/rust1/master/COPYRIGHT.
 
 #![feature(core_intrinsics)]
-#![cfg_attr(feature="clippy", feature(plugin))]
-#![cfg_attr(feature="clippy", plugin(clippy))]
 
 pub fn typeOf<T>(_: &T) -> &str
 {
