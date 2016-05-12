@@ -3,6 +3,8 @@
 
 # reflection
 
+[![Clippy Linting Result](https://clippy.bashy.io/github/lemonrock/reflection/master/badge.svg?style=plastic)](https://clippy.bashy.io/github/lemonrock/reflection/master/log) [![](https://img.shields.io/badge/Code%20Style-rustfmt-brightgreen.svg?style=plastic)](https://github.com/rust-lang-nursery/rustfmt#configuring-rustfmt)
+
 [reflection] is a rust crate.
 
 
